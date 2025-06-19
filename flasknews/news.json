@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Új innováció a magyar autóiparban",
+    "summary": "Forradalmi fejlesztés érkezik egy hazai gyártótól.",
+    "content": "Egy magyar autóipari cég új típusú elektromos hajtásláncot mutatott be, amely csökkenti az energiafelhasználást és növeli a jármű hatótávját.",
+    "date": "2025-06-18",
+    "category": "Gazdaság"
+  },
+  {
+    "id": 2,
+    "title": "Futótűz tombol Spanyolországban",
+    "summary": "Több ezer embert kellett evakuálni az Ibériai-félszigeten.",
+    "content": "A spanyol kormány rendkívüli állapotot hirdetett Andalúziában a gyorsan terjedő erdőtüzek miatt. Több mint 50 ezer hektár vált a lángok martalékává.",
+    "date": "2025-06-18",
+    "category": "Külföld"
+  },
+  {
+    "id": 3,
+    "title": "Újabb kamatdöntés várható a héten",
+    "summary": "A jegybank csütörtökön dönt az alapkamat mértékéről.",
+    "content": "A Magyar Nemzeti Bank elemzői várakozásai szerint az inflációs nyomás mérséklődése ellenére is óvatos kamatpolitikára lehet számítani.",
+    "date": "2025-06-17",
+    "category": "Gazdaság"
+  },
+  {
+    "id": 4,
+    "title": "Megújul a budapesti közlekedés",
+    "summary": "Zöld buszokat tesztelnek a belvárosban.",
+    "content": "A főváros 20 új elektromos buszt helyezett forgalomba a belső kerületekben, a járművek alacsony kibocsátásúak és csendesek.",
+    "date": "2025-06-17",
+    "category": "Belföld"
+  },
+  {
+    "id": 5,
+    "title": "Elstartolt a nyári fesztiválszezon",
+    "summary": "Több ezer látogató érkezett az első napra.",
+    "content": "A Balaton Sound új dizájnnal és fellépőkkel várja az érdeklődőket. A rendezvény idén még fenntarthatóbbá vált.",
+    "date": "2025-06-16",
+    "category": "Kultúra"
+  },
+  {
+    "id": 6,
+    "title": "A magyar válogatott továbbjutott az Eb-n",
+    "summary": "Drámai csatában nyertek a svédek ellen.",
+    "content": "A 92. percben szerzett gól döntötte el a mérkőzést, így Magyarország a legjobb nyolc közé jutott az Európa-bajnokságon.",
+    "date": "2025-06-16",
+    "category": "Sport"
+  },
+  {
+    "id": 7,
+    "title": "Leállás jön a közösségi médiában?",
+    "summary": "Több platform is technikai nehézségekkel küzd.",
+    "content": "A Meta és a Twitter közös közleményben jelezték: átmeneti szolgáltatás-kiesés várható a szerverfrissítések miatt.",
+    "date": "2025-06-15",
+    "category": "Technológia"
+  },
+  {
+    "id": 8,
+    "title": "Új szabályok lépnek életbe a nyárra",
+    "summary": "A kormány rendeletet adott ki a nyári rendezvények biztonságáról.",
+    "content": "A rendelet értelmében fokozott biztonsági intézkedések lépnek életbe nagy rendezvényeken, kötelező lesz például a beléptető kapuk használata.",
+    "date": "2025-06-14",
+    "category": "Belföld"
+  },
+  {
+    "id": 9,
+    "title": "Sikeres rakétakísérlet Ázsiában",
+    "summary": "A koreai űrügynökség újabb tesztet hajtott végre.",
+    "content": "A rakéta Föld körüli pályára állított egy kommunikációs műholdat, ezzel új korszak kezdődik az ázsiai űrkutatásban.",
+    "date": "2025-06-13",
+    "category": "Tudomány"
+  },
+  {
+    "id": 10,
+    "title": "Egyre népszerűbbek a városi kertek",
+    "summary": "A közösségi kertészkedés új lendületet kapott.",
+    "content": "Budapesten több új városi kert nyílt, amelyeket helyi közösségek gondoznak és fenntartható módszerekkel művelnek.",
+    "date": "2025-06-12",
+    "category": "Környezet"
+  }
+]
